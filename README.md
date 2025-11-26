@@ -4,5 +4,9 @@ Práctica para los alumnos de DAW Despliegue 25 26. A partir de esta línea aña
 
 
 
-Xiomara Ratto Nuñez
 
+
+Daniel Bolivar
+Parbjyot Singh
+Ricardo Ruiz Morales
+Xiomara Ratto Nuñez
