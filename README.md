@@ -1,6 +1,7 @@
 # EnlacesDaw2526
-
 Práctica para los alumnos de DAW Despliegue 25 26. A partir de esta línea añade tu nombre, respetando los nombres de los compañeros que ya se hayan añadido
+
+
 
 Derek Casa
 Ricardo Ruiz Morales
@@ -13,8 +14,8 @@ Hugo Jariod Tomás
 =======
 Cesar Belenguer
 Alberto Puig
-
 Marina Recuenco
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 1944af1826fe1b0a8d2f14bff8717b2ee2d00a04
 =======
@@ -29,3 +30,6 @@ Guillermo Ayuda Del Rio
 Adrian Dieste
 
 >>>>>>> e8b838ae1dcd297ff1cfd5589ef65aee00f0c98c
+=======
+Akram Alioui
+>>>>>>> be56cb97d982d5a1e28645a895ba0fe03ba4e3fc
